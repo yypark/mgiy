@@ -1,2 +1,2 @@
 # mgiy
-previous experience
+previous experience in computational neuroscience
